@@ -18,3 +18,9 @@ ll
 ls 
 git remote add origin https://github.com/skmdrafi484/skmdrafi484.git
 git push -u origin master
+git status
+git add .
+git commit -m "hhh" .
+git status
+git remote add origin https://github.com/skmdrafi484/skmdrafi484.git
+git push -u origin master
